@@ -1,0 +1,4 @@
+D:\CMake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Projects\CLionProjects\hw6-transform
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Projects/CLionProjects/hw6-transform/cmake-build-debug
